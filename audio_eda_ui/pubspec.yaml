@@ -1,0 +1,26 @@
+name: audio_eda_ui
+description: Audio EDA Visual Interface Mockup
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_resizable_container: any
+  provider: any
+  uuid: any
+  http: ^1.2.0
+  file_picker: ^8.0.0
+  audioplayers: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

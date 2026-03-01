@@ -1,0 +1,17 @@
+BOM - Unified Overdrive Pedal (100% Python Generated)
+=====================================================
+power           : 9          | Spec: 9V DC Power Supply
+r_pulldown      : 2.2Meg     | Spec: 1/4W Metal Film
+c_input         : 0.1u       | Spec: Min 16V Polyester
+q_buffer        : 2N3904     | Spec: NPN BJT
+r_buf_emit      : 10k        | Spec: 1/4W Metal Film
+c_buf_out       : 0.1u       | Spec: Min 16V Polyester
+r_bias          : 2.2Meg     | Spec: 1/4W Metal Film
+q_drive         : 2N3904     | Spec: NPN BJT
+r_col           : 4.7k       | Spec: 1/4W Metal Film
+r_safety        : 100        | Spec: 1/4W Metal Film
+pot_drive       : 1k         | Spec: 1k Linear (1kB)
+c_out           : 0.1u       | Spec: Min 16V Polyester
+d_clip_1        : 1N4148     | Spec: Silicon Diode
+d_clip_2        : 1N4148     | Spec: Silicon Diode
+pot_vol         : 100k       | Spec: 100k Log (100kA)

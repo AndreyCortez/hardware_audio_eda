@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+
+# Flutter/Dart
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+**/coverage/
+**/lib/generated_plugin_registrant.dart
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Pods/
+**/android/app/src/main/assets/flutter_assets/
+**/android/app/src/main/assets/flutter_shared/
+**/android/app/src/main/java/io/flutter/plugins/
+**/android/key.properties
+*.keystore
+
+# PySpice / Ngspice output
+*.raw
+*.cir
+*.log
+*.out
+
+# Audio files
+*.wav
+*.mp3
+*.ogg
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
